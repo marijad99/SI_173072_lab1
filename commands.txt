@@ -1,0 +1,18 @@
+cd desktop
+mkdir lab1
+cd lab1
+notepad l1.txt
+git init
+git add l1.txt
+git commit -m "Initial commit"
+git add l1.txt
+git commit -m"modify l1.txt"
+git push -u master origin
+git remote
+git reset --hard
+git branch logging
+git checkout logging
+notepad log.txt
+git add log.txt
+git push -u master origin
+git branch allcomands

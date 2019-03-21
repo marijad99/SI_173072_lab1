@@ -1,0 +1,12 @@
+C:\Users\173072\Desktop\lab1>git log
+commit 33e06ca095cec618f617aba9817f8ecebe3620cd (HEAD -> logging, origin/master, master)
+Author: unknown <Marija.Davitkovska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:32:07 2019 +0100
+
+    modify
+
+commit 161579b03c3750353875eba31aec45a440d54634
+Author: unknown <Marija.Davitkovska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:25:51 2019 +0100
+
+    Initial commit
